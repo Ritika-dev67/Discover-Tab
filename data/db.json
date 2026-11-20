@@ -1,0 +1,39 @@
+{
+  "swipes": [
+    {
+      "profileId": 1,
+      "action": "like",
+      "at": "2026-11-20T08:33:35.455Z"
+    },
+    {
+      "profileId": 2,
+      "action": "like",
+      "at": "2026-11-20T08:33:37.635Z"
+    },
+    {
+      "profileId": 3,
+      "action": "pass",
+      "at": "2026-11-20T08:33:48.395Z"
+    },
+    {
+      "profileId": 4,
+      "action": "pass",
+      "at": "2026-11-20T08:33:51.815Z"
+    },
+    {
+      "profileId": 5,
+      "action": "like",
+      "at": "2026-11-20T08:33:58.037Z"
+    }
+  ],
+  "matches": [
+    {
+      "profileId": 2,
+      "at": "2026-11-20T08:33:37.635Z"
+    },
+    {
+      "profileId": 5,
+      "at": "2026-11-20T08:33:58.037Z"
+    }
+  ]
+}

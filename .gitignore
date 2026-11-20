@@ -1,0 +1,6 @@
+node_modules
+.next
+data/coy.db
+data/coy.db-wal
+data/coy.db-shm
+.DS_Store
