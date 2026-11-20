@@ -1,4 +1,4 @@
-# Coy – Discover tab
+Discover tab
 
 A swipe-based discovery feature (Tinder/Bumble style) built as a standalone Next.js app.
 The app has a bottom tab bar with a blank **Home** placeholder and the working **Discover** tab.
